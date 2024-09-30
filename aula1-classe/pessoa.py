@@ -4,7 +4,7 @@ class Pessoa:
     idade = 25
     altura = 1.70
 
-    #métodos - são s comportamnetos da classe
+    #métodos - são os comportamnetos da classe
     def falar(self,texto): #self é um parâmetro obrigatório do python que informa que o método pertecence à própria classe que foi criada
         print(f"Tenho algo para te falar: {texto}")
 
